@@ -160,6 +160,9 @@
         <mxCell id="HhFPauODVmY-N3shkRRR-65" value="用户注销账户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="758" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HhFPauODVmY-N3shkRRR-67" value="用户解冻成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="718" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
