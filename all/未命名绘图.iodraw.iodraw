@@ -16,7 +16,7 @@
           <mxGeometry x="399" y="58" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhFPauODVmY-N3shkRRR-4" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="110" width="130" height="220" as="geometry" />
+          <mxGeometry x="350" y="110" width="130" height="340" as="geometry" />
         </mxCell>
         <UserObject label="未激活" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-5">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
@@ -38,15 +38,15 @@
           <mxGeometry x="125" y="315" width="76" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HhFPauODVmY-N3shkRRR-12" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="110" height="60" as="geometry" />
+          <mxGeometry x="357" y="210" width="110" height="60" as="geometry" />
         </mxCell>
         <UserObject label="制卡完成" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-13">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="135" y="310" width="80" height="20" as="geometry" />
+            <mxGeometry x="372" y="220" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="HhFPauODVmY-N3shkRRR-14" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="325" width="76" height="10" as="geometry" />
+          <mxGeometry x="372" y="235" width="76" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
