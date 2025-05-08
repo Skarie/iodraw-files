@@ -500,6 +500,9 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-175" value="审核未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="2145" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-177" value="航班结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="2198" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
