@@ -289,7 +289,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-102" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-85" y="1388" width="170" height="520" as="geometry" />
         </mxCell>
-        <UserObject label="制定航班计划" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-103">
+        <UserObject label="飞行" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-103">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="-45" y="1398" width="80" height="20" as="geometry" />
           </mxCell>
