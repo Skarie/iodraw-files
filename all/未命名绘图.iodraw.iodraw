@@ -328,15 +328,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-116" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-65" y="1719" width="100" height="70" as="geometry" />
+          <mxGeometry x="-80" y="1719" width="100" height="70" as="geometry" />
         </mxCell>
         <UserObject label="航班计划完成" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-117">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-65" y="1728" width="90" height="20" as="geometry" />
+            <mxGeometry x="-80" y="1728" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-118" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-65" y="1748" width="90" height="10" as="geometry" />
+          <mxGeometry x="-80" y="1748" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-119" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1848" width="30" height="30" as="geometry" />
@@ -367,17 +367,6 @@
             <mxGeometry x="-25" y="1518" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="航班计划完成" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-132">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-80" y="1727" width="90" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-133" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1747" width="90" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-134" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1718" width="100" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
