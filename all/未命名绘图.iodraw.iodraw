@@ -76,15 +76,18 @@
           <mxGeometry x="379" y="550" width="76" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HhFPauODVmY-N3shkRRR-36" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="374" y="530" width="100" height="60" as="geometry" />
+          <mxGeometry x="90" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <UserObject label="激活" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-37">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="385" y="540" width="80" height="20" as="geometry" />
+            <mxGeometry x="101" y="650" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="HhFPauODVmY-N3shkRRR-38" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="560" width="76" height="10" as="geometry" />
+          <mxGeometry x="105" y="670" width="76" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HhFPauODVmY-N3shkRRR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HhFPauODVmY-N3shkRRR-4" target="HhFPauODVmY-N3shkRRR-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
