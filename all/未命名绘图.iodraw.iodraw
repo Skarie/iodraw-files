@@ -271,7 +271,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-94" value="航班时间到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1258" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="BaVYdeRFspEt_juoTQNb-95" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=1;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BaVYdeRFspEt_juoTQNb-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="272.5" y="1295" as="sourcePoint" />
             <mxPoint x="320" y="1250" as="targetPoint" />
