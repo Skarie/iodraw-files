@@ -65,7 +65,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="HhFPauODVmY-N3shkRRR-21" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="364" y="520" width="100" height="100" as="geometry" />
+          <mxGeometry x="364" y="520" width="100" height="70" as="geometry" />
         </mxCell>
         <UserObject label="激活" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-22">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
@@ -73,7 +73,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="HhFPauODVmY-N3shkRRR-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="395" width="76" height="10" as="geometry" />
+          <mxGeometry x="379" y="550" width="76" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
