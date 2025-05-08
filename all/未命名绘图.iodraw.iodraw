@@ -106,8 +106,8 @@
         <mxCell id="HhFPauODVmY-N3shkRRR-48" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="675" width="76" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="HhFPauODVmY-N3shkRRR-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="588" width="50" height="30" as="geometry" />
+        <mxCell id="HhFPauODVmY-N3shkRRR-50" value="激活卡片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="588" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
