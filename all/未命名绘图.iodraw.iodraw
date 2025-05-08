@@ -34,6 +34,11 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="320" width="75" height="10" as="geometry" />
         </mxCell>
+        <UserObject label="审核航班状态" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-17">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="235" y="290" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
