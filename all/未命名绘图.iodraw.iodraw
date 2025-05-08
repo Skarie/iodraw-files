@@ -29,14 +29,11 @@
         <mxCell id="HhFPauODVmY-N3shkRRR-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="110" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="%name% Text" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-8">
+        <UserObject label="制卡完成" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="300" y="400" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="HhFPauODVmY-N3shkRRR-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="388" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
