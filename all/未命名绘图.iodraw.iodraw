@@ -31,7 +31,7 @@
         </mxCell>
         <UserObject label="制卡完成" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="300" y="400" width="80" height="20" as="geometry" />
+            <mxGeometry x="125" y="300" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
