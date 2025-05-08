@@ -25,7 +25,7 @@
         </mxCell>
         <UserObject label="提出申请" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-14">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="370" y="220" width="80" height="20" as="geometry" />
+            <mxGeometry x="222.5" y="110" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
