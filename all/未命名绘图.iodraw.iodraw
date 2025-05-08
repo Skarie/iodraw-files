@@ -16,7 +16,7 @@
           <mxGeometry x="399" y="58" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhFPauODVmY-N3shkRRR-4" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="110" width="130" height="340" as="geometry" />
+          <mxGeometry x="340" y="110" width="150" height="340" as="geometry" />
         </mxCell>
         <UserObject label="未激活" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-5">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
