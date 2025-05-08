@@ -325,7 +325,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-112" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1608" width="100" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="配置航线" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-113">
+        <UserObject label="巡航稳定" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-113">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="-65" y="1618" width="80" height="20" as="geometry" />
           </mxCell>
