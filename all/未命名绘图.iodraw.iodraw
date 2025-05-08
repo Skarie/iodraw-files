@@ -494,8 +494,8 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-171" value="飞行完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="1610" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-175" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="745" y="2108" width="50" height="30" as="geometry" />
+        <mxCell id="BaVYdeRFspEt_juoTQNb-175" value="审核未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="2108" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
