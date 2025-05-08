@@ -479,6 +479,9 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-169" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="700" y="2250" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.008;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-102" target="BaVYdeRFspEt_juoTQNb-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
