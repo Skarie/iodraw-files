@@ -181,9 +181,6 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-62" value="购买失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="1088" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-63" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="265" y="438" width="297.5" height="950" as="geometry" />
-        </mxCell>
         <UserObject label="起飞准备" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-64">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="300" y="450" width="220" height="20" as="geometry" />
@@ -271,11 +268,20 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-94" value="航班时间到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1258" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="BaVYdeRFspEt_juoTQNb-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="272.5" y="1295" as="sourcePoint" />
             <mxPoint x="322.5" y="1245" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-96" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="BaVYdeRFspEt_juoTQNb-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272.5" y="1295" as="sourcePoint" />
+            <mxPoint x="322.5" y="1245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-63" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="430" width="297.5" height="950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
