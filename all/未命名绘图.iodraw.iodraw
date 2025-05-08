@@ -117,7 +117,7 @@
         </mxCell>
         <UserObject label="匹配计划资源" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-42">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="370" y="590" width="80" height="20" as="geometry" />
+            <mxGeometry x="60" y="520" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
