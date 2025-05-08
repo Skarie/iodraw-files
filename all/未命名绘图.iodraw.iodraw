@@ -175,8 +175,8 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-60" value="发布售票计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="958" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-61" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="1078" width="50" height="30" as="geometry" />
+        <mxCell id="BaVYdeRFspEt_juoTQNb-61" value="售票完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="1078" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
