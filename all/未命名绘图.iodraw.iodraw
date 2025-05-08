@@ -254,7 +254,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-89" value="天气好转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="878" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-90" target="BaVYdeRFspEt_juoTQNb-102">
+        <mxCell id="BaVYdeRFspEt_juoTQNb-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-90" target="BaVYdeRFspEt_juoTQNb-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-90" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -290,103 +290,103 @@
           <mxGeometry x="400" y="1130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-102" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="1388" width="285" height="712" as="geometry" />
+          <mxGeometry x="-105" y="1430" width="285" height="712" as="geometry" />
         </mxCell>
         <UserObject label="飞行" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-103">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-45" y="1398" width="80" height="20" as="geometry" />
+            <mxGeometry x="-65" y="1440" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-104" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="1418" width="140" height="10" as="geometry" />
+          <mxGeometry x="-95" y="1460" width="140" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BaVYdeRFspEt_juoTQNb-112">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="1578" as="sourcePoint" />
+            <mxPoint x="-35" y="1620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-107" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1448" width="30" height="30" as="geometry" />
+          <mxGeometry x="-30" y="1490" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-108" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.377;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-107" target="BaVYdeRFspEt_juoTQNb-127">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="1508" as="targetPoint" />
+            <mxPoint x="-50" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-112" target="BaVYdeRFspEt_juoTQNb-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-112" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1608" width="100" height="70" as="geometry" />
+          <mxGeometry x="-70" y="1650" width="100" height="70" as="geometry" />
         </mxCell>
         <UserObject label="巡航稳定" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-113">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-45" y="1618" width="80" height="20" as="geometry" />
+            <mxGeometry x="-65" y="1660" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-114" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="1638" width="90" height="10" as="geometry" />
+          <mxGeometry x="-65" y="1680" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-116" target="BaVYdeRFspEt_juoTQNb-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-116" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="1778" width="100" height="70" as="geometry" />
+          <mxGeometry x="-105" y="1820" width="100" height="70" as="geometry" />
         </mxCell>
         <UserObject label="减速下落" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-117">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-85" y="1787" width="90" height="20" as="geometry" />
+            <mxGeometry x="-105" y="1829" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-118" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="1807" width="90" height="10" as="geometry" />
+          <mxGeometry x="-105" y="1849" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-119" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1950" width="30" height="30" as="geometry" />
+          <mxGeometry x="-70" y="1992" width="30" height="30" as="geometry" />
         </mxCell>
         <UserObject label="起飞阶段" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-120">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1478" width="80" height="20" as="geometry" />
+            <mxGeometry y="1520" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="达到巡航高度" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-121">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1588" width="80" height="20" as="geometry" />
+            <mxGeometry y="1630" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-127" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="1508" width="100" height="70" as="geometry" />
+          <mxGeometry x="-55" y="1550" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-128" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1538" width="90" height="10" as="geometry" />
+          <mxGeometry x="-50" y="1580" width="90" height="10" as="geometry" />
         </mxCell>
         <UserObject label="起飞爬升阶段" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-129">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-25" y="1518" width="80" height="20" as="geometry" />
+            <mxGeometry x="-45" y="1560" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-135" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1777" width="100" height="70" as="geometry" />
+          <mxGeometry x="70" y="1819" width="100" height="70" as="geometry" />
         </mxCell>
         <UserObject label="中途备降" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-136">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="90" y="1786" width="90" height="20" as="geometry" />
+            <mxGeometry x="70" y="1828" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-137" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1806" width="90" height="10" as="geometry" />
+          <mxGeometry x="70" y="1848" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.593;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-112" target="BaVYdeRFspEt_juoTQNb-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-139" value="降落阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="1739" width="70" height="30" as="geometry" />
+          <mxGeometry x="-55" y="1781" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-140" value="遇到突发事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1700" width="100" height="30" as="geometry" />
+          <mxGeometry x="85" y="1742" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-141" value="安全下降" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="1888" width="70" height="30" as="geometry" />
+          <mxGeometry x="-55" y="1930" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
