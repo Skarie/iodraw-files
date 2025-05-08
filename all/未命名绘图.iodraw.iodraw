@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DE90cNcrMt1UCB58iqLf">
-    <mxGraphModel dx="1173" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1726" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,17 +77,6 @@
         </UserObject>
         <mxCell id="HhFPauODVmY-N3shkRRR-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="550" width="76" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HhFPauODVmY-N3shkRRR-36" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="555" width="100" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="激活" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-37">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="51" y="565" width="80" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="HhFPauODVmY-N3shkRRR-38" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="585" width="76" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HhFPauODVmY-N3shkRRR-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HhFPauODVmY-N3shkRRR-4" target="HhFPauODVmY-N3shkRRR-21">
           <mxGeometry relative="1" as="geometry" />
