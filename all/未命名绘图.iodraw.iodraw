@@ -49,7 +49,7 @@
           <mxGeometry x="255" y="218" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-20" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="430" width="170" height="440" as="geometry" />
+          <mxGeometry x="10" y="430" width="170" height="520" as="geometry" />
         </mxCell>
         <UserObject label="制定航班计划" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-21">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
@@ -100,11 +100,14 @@
         </mxCell>
         <UserObject label="航班计划完成" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-37">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="30" y="770" width="80" height="20" as="geometry" />
+            <mxGeometry x="30" y="770" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-38" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="690" width="90" height="10" as="geometry" />
+          <mxGeometry x="30" y="790" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-39" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="790" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
