@@ -226,15 +226,15 @@
           <mxGeometry x="327.5" y="890" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-79" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1189" width="100" height="70" as="geometry" />
+          <mxGeometry x="440" y="705" width="100" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="售票失败" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-80">
+        <UserObject label="航班延误" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-80">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="120" y="1199" width="90" height="20" as="geometry" />
+            <mxGeometry x="445" y="715" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-81" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="1219" width="80" height="10" as="geometry" />
+          <mxGeometry x="450" y="735" width="80" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
