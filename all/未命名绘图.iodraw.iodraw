@@ -496,8 +496,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-173" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="1728" width="50" height="30" as="geometry" />
+        <mxCell id="BaVYdeRFspEt_juoTQNb-173" value="审核未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1725" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
