@@ -170,7 +170,7 @@
           <mxGeometry x="464" y="740" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhFPauODVmY-N3shkRRR-68" value="有效期到达" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="698" width="80" height="30" as="geometry" />
+          <mxGeometry x="593" y="698" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhFPauODVmY-N3shkRRR-69" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="393" y="970" width="30" height="30" as="geometry" />
@@ -178,8 +178,8 @@
         <mxCell id="HhFPauODVmY-N3shkRRR-72" value="账户关闭" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="898" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HhFPauODVmY-N3shkRRR-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="908" width="50" height="30" as="geometry" />
+        <mxCell id="HhFPauODVmY-N3shkRRR-73" value="卡片失效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="521" y="920" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
