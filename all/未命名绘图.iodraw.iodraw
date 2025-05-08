@@ -172,8 +172,8 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-56" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="1199" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="958" width="50" height="30" as="geometry" />
+        <mxCell id="BaVYdeRFspEt_juoTQNb-60" value="发布售票计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="958" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
