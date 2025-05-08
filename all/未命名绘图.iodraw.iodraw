@@ -115,7 +115,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-39" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="55" y="890" width="30" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="%name% Text" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-42">
+        <UserObject label="匹配计划资源" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-42">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="370" y="590" width="80" height="20" as="geometry" />
           </mxCell>
