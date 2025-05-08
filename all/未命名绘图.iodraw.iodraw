@@ -461,7 +461,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-165" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="445" y="2145" width="30" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="匹配计划资源" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-166">
+        <UserObject label="与地面通信" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-166">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="450" y="1775" width="80" height="20" as="geometry" />
           </mxCell>
