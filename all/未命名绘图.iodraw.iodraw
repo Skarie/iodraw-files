@@ -72,6 +72,9 @@
             <mxGeometry x="375" y="530" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="HhFPauODVmY-N3shkRRR-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="395" width="76" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
