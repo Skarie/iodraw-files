@@ -265,7 +265,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-92" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1280" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.017;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-51" target="BaVYdeRFspEt_juoTQNb-63">
+        <mxCell id="BaVYdeRFspEt_juoTQNb-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.827;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-51" target="BaVYdeRFspEt_juoTQNb-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-94" value="航班时间到" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -390,6 +390,9 @@
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-144" value="航班顺利起飞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="1380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-146" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1410" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
