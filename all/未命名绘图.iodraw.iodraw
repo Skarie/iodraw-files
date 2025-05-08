@@ -120,6 +120,11 @@
             <mxGeometry x="60" y="520" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="匹配计划资源" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-44">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="70" y="530" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
