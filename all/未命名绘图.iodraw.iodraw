@@ -20,8 +20,8 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-4" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="215" y="100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
-          <mxGeometry x="245" y="130" width="25" height="8" as="geometry" />
+        <mxCell id="BaVYdeRFspEt_juoTQNb-12" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="160" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
