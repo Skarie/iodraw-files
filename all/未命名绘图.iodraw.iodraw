@@ -148,8 +148,8 @@
         <mxCell id="HhFPauODVmY-N3shkRRR-59" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="800" width="76" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="HhFPauODVmY-N3shkRRR-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="728" width="50" height="30" as="geometry" />
+        <mxCell id="HhFPauODVmY-N3shkRRR-62" value="检查异常被冻结" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="728" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
