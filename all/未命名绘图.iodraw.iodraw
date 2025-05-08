@@ -201,15 +201,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-68" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1170" width="100" height="70" as="geometry" />
+          <mxGeometry x="322.5" y="580" width="100" height="70" as="geometry" />
         </mxCell>
         <UserObject label="售票成功" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-69">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-55" y="1180" width="90" height="20" as="geometry" />
+            <mxGeometry x="327.5" y="590" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-70" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1200" width="80" height="10" as="geometry" />
+          <mxGeometry x="332.5" y="610" width="80" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
