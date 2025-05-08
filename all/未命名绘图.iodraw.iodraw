@@ -84,6 +84,9 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-30" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="408" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-31" target="BaVYdeRFspEt_juoTQNb-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-31" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="650" width="100" height="70" as="geometry" />
         </mxCell>
@@ -94,6 +97,9 @@
         </UserObject>
         <mxCell id="BaVYdeRFspEt_juoTQNb-33" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="680" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-35" target="BaVYdeRFspEt_juoTQNb-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-35" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="760" width="100" height="70" as="geometry" />
@@ -107,7 +113,7 @@
           <mxGeometry x="30" y="790" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-39" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="790" width="30" height="30" as="geometry" />
+          <mxGeometry x="55" y="890" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
