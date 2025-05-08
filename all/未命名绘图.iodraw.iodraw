@@ -278,7 +278,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-97" value="准备完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="1198" width="70" height="30" as="geometry" />
+          <mxGeometry x="270" y="1255" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.633;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-75" target="BaVYdeRFspEt_juoTQNb-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
