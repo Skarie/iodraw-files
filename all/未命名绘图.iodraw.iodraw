@@ -297,11 +297,10 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-104" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="-75" y="1418" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-106" target="BaVYdeRFspEt_juoTQNb-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-106" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-65" y="1508" width="100" height="70" as="geometry" />
+        <mxCell id="BaVYdeRFspEt_juoTQNb-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BaVYdeRFspEt_juoTQNb-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="1578" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-107" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-45" y="1448" width="30" height="30" as="geometry" />
@@ -310,14 +309,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-30" y="1508" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <UserObject label="起飞爬升阶段" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-109">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="-55" y="1518" width="80" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="BaVYdeRFspEt_juoTQNb-110" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1538" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BaVYdeRFspEt_juoTQNb-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaVYdeRFspEt_juoTQNb-112" target="BaVYdeRFspEt_juoTQNb-116">
           <mxGeometry relative="1" as="geometry" />
