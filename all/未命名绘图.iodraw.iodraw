@@ -330,7 +330,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-116" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-85" y="1778" width="100" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="减速降落" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-117">
+        <UserObject label="减速下落" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-117">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="-85" y="1787" width="90" height="20" as="geometry" />
           </mxCell>
