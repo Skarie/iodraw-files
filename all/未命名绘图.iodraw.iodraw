@@ -466,12 +466,12 @@
             <mxGeometry x="450" y="1775" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="路由决定" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-167">
+        <UserObject label="到达指定地点" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-167">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="470" y="1885" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="航线配置完毕" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-168">
+        <UserObject label="结束服务" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-168">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="470" y="1985" width="80" height="20" as="geometry" />
           </mxCell>
