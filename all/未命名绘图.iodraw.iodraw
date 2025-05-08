@@ -133,7 +133,7 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-47" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="1000" width="100" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="航班计划完成" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-48">
+        <UserObject label="售票" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-48">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="35" y="1010" width="90" height="20" as="geometry" />
           </mxCell>
