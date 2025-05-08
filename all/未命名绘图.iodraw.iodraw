@@ -254,6 +254,17 @@
         <mxCell id="BaVYdeRFspEt_juoTQNb-89" value="天气好转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="878" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-90" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1199" width="100" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="售票失败" placeholders="1" name="Variable" id="BaVYdeRFspEt_juoTQNb-91">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="130" y="1209" width="90" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BaVYdeRFspEt_juoTQNb-92" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1229" width="80" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
