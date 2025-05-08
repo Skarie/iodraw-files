@@ -59,6 +59,11 @@
             <mxPoint x="405" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="%name% Text" placeholders="1" name="Variable" id="HhFPauODVmY-N3shkRRR-20">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="70" y="380" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
