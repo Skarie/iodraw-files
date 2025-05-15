@@ -73,6 +73,12 @@
         <mxCell id="ashj6al2YpNInxMBwyGR-36" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="339" y="580" width="83.33" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ashj6al2YpNInxMBwyGR-38" value="提交学生信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ashj6al2YpNInxMBwyGR-39" value="提交学生信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
