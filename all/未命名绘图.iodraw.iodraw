@@ -15,6 +15,9 @@
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-3" value="教师输入账号，密码，动态验证码等登录信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="C63tdD5WH4Z_XQrXTIoa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C63tdD5WH4Z_XQrXTIoa-5" target="C63tdD5WH4Z_XQrXTIoa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-5" value="验证是否通过" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="260" width="120" height="80" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
           <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="610" y="570" width="30" height="30" as="geometry" />
+          <mxGeometry x="600" y="570" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-12" value="系统验证登陆信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
