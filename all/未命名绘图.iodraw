@@ -7,11 +7,6 @@
         <mxCell id="ashj6al2YpNInxMBwyGR-7" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="110" y="20" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ashj6al2YpNInxMBwyGR-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="ashj6al2YpNInxMBwyGR-7" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
