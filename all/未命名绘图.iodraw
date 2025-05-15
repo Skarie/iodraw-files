@@ -70,6 +70,11 @@
         <mxCell id="ashj6al2YpNInxMBwyGR-35" value="验证学生信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ashj6al2YpNInxMBwyGR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ashj6al2YpNInxMBwyGR-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-36" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="339" y="570" width="83.33" height="50" as="geometry" />
         </mxCell>
