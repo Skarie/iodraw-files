@@ -64,11 +64,14 @@
         <mxCell id="ashj6al2YpNInxMBwyGR-31" value="显示学生信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ashj6al2YpNInxMBwyGR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ashj6al2YpNInxMBwyGR-35" target="ashj6al2YpNInxMBwyGR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-35" value="验证学生信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="435" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-36" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="83.33" height="50" as="geometry" />
+          <mxGeometry x="339" y="580" width="83.33" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
