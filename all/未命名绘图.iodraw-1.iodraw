@@ -102,7 +102,7 @@
         <mxCell id="uDYlgRl9pMKasYr2fOGH-35" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="980" y="-180" width="20" height="1090" as="geometry" />
         </mxCell>
-        <mxCell id="uDYlgRl9pMKasYr2fOGH-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uDYlgRl9pMKasYr2fOGH-36" value="到图书馆扫码借书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
