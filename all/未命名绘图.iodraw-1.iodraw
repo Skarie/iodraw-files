@@ -78,6 +78,9 @@
         <mxCell id="uDYlgRl9pMKasYr2fOGH-21" value="生成取书码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uDYlgRl9pMKasYr2fOGH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDYlgRl9pMKasYr2fOGH-22" target="uDYlgRl9pMKasYr2fOGH-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uDYlgRl9pMKasYr2fOGH-22" value="发送取书码给读者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +106,7 @@
           <mxGeometry x="980" y="-180" width="20" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="uDYlgRl9pMKasYr2fOGH-36" value="到图书馆扫码借书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
