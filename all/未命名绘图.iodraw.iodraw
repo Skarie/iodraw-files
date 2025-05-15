@@ -33,6 +33,9 @@
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-6" value="登陆失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="C63tdD5WH4Z_XQrXTIoa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C63tdD5WH4Z_XQrXTIoa-7" target="C63tdD5WH4Z_XQrXTIoa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-7" value="登陆成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,6 +47,9 @@
         </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-12" value="系统验证登陆信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C63tdD5WH4Z_XQrXTIoa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C63tdD5WH4Z_XQrXTIoa-18" target="C63tdD5WH4Z_XQrXTIoa-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-18" value="选择查询学生信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
