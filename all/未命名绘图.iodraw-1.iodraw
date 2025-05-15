@@ -105,11 +105,17 @@
         <mxCell id="uDYlgRl9pMKasYr2fOGH-35" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="980" y="-180" width="20" height="1090" as="geometry" />
         </mxCell>
+        <mxCell id="uDYlgRl9pMKasYr2fOGH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDYlgRl9pMKasYr2fOGH-36" target="uDYlgRl9pMKasYr2fOGH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uDYlgRl9pMKasYr2fOGH-36" value="到图书馆扫码借书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDYlgRl9pMKasYr2fOGH-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
           <mxGeometry x="30" y="830" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDYlgRl9pMKasYr2fOGH-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="848" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
