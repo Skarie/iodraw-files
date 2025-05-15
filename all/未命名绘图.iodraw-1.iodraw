@@ -37,10 +37,10 @@
           <mxGeometry x="294" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDYlgRl9pMKasYr2fOGH-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" vertex="1" parent="1">
-          <mxGeometry x="294" y="270" width="100" height="60" as="geometry" />
+          <mxGeometry x="280" y="270" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDYlgRl9pMKasYr2fOGH-14" value="借阅资格是否合格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="398" width="120" height="30" as="geometry" />
+          <mxGeometry x="284" y="285" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
