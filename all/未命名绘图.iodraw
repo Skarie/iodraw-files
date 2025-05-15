@@ -90,6 +90,9 @@
         <mxCell id="ashj6al2YpNInxMBwyGR-39" value="退出系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ashj6al2YpNInxMBwyGR-43" value="注销账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
