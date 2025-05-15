@@ -85,13 +85,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-36" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="339" y="570" width="83.33" height="50" as="geometry" />
+          <mxGeometry x="357.33" y="650" width="83.33" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ashj6al2YpNInxMBwyGR-38" target="ashj6al2YpNInxMBwyGR-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-38" value="保存信息到数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320.66" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="338.99" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-39" value="退出系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
