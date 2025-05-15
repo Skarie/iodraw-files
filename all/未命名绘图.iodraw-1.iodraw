@@ -63,6 +63,9 @@
         <mxCell id="uDYlgRl9pMKasYr2fOGH-20" value="减扣库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uDYlgRl9pMKasYr2fOGH-21" value="生成取书码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
