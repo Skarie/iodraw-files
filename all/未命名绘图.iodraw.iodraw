@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="C63tdD5WH4Z_XQrXTIoa-1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="100" as="targetPoint" />
+            <mxPoint x="414" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
