@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-6" value="登陆失败" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C63tdD5WH4Z_XQrXTIoa-7" target="C63tdD5WH4Z_XQrXTIoa-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
