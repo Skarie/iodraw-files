@@ -78,10 +78,11 @@
         <mxCell id="C63tdD5WH4Z_XQrXTIoa-23" value="系统注销账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C63tdD5WH4Z_XQrXTIoa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.429;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C63tdD5WH4Z_XQrXTIoa-22" target="C63tdD5WH4Z_XQrXTIoa-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="1300" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="C63tdD5WH4Z_XQrXTIoa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.429;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C63tdD5WH4Z_XQrXTIoa-22" target="C63tdD5WH4Z_XQrXTIoa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C63tdD5WH4Z_XQrXTIoa-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1440" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
