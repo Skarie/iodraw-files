@@ -16,7 +16,7 @@
         <mxCell id="ashj6al2YpNInxMBwyGR-9" value="教师登录系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ashj6al2YpNInxMBwyGR-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ashj6al2YpNInxMBwyGR-11" value="验证身份" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ashj6al2YpNInxMBwyGR-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
