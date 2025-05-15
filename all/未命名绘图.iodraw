@@ -111,8 +111,8 @@
         <mxCell id="ashj6al2YpNInxMBwyGR-50" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="728" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ashj6al2YpNInxMBwyGR-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="598" width="50" height="30" as="geometry" />
+        <mxCell id="ashj6al2YpNInxMBwyGR-51" value="验证失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="610" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
