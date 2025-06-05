@@ -1,0 +1,13 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="zQlJ1VjMRq8o2uC5wVdH">
+    <mxGraphModel dx="1022" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sHObKkR2DjUe6xXYAF0W-1" value="@startuml&#xa;actor 家属 as user&#xa;participant &quot;系统界面&quot; as ui&#xa;participant &quot;预约模块&quot; as booking&#xa;participant &quot;通知模块&quot; as notify&#xa;&#xa;&#xa;user -&gt; ui: 登录系统&#xa;ui -&gt; user: 显示主界面&#xa;user -&gt; ui: 发起探访预约请求&#xa;ui -&gt; booking: 提交预约信息(时间/老人ID)&#xa;booking --&gt; ui: 返回时间选项&#xa;ui -&gt; user: 显示可选时段&#xa;user -&gt; ui: 选择具体时间&#xa;ui -&gt; booking: 确认时间&#xa;booking -&gt; booking: 检查冲突&#xa;booking --&gt; ui: 预约成功&#xa;ui -&gt; notify: 发送通知&#xa;notify -&gt; user: 推送确认消息&#xa;@enduml" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="250" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
